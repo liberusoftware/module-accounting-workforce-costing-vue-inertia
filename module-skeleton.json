@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-workforce-costing-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-workforce-costing",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-workforce-costing-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/workforce-costing.md",
+  "presentationPlan": "projects/accounting/vue/workforce-costing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
